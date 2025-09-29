@@ -1,0 +1,26 @@
+{
+  "name": "neural42-token",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy:testnet": "hardhat run deployment/00_deploy_neural42.ts --network bscTestnet"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@types/node": "^20.19.17",
+    "hardhat": "^2.26.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0"
+  },
+  "description": "This subject is the production of a partnership between 42 and BNB Chain. Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
