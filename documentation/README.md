@@ -42,6 +42,7 @@ Lien vers le token [sur BscScan Testnet](https://testnet.bscscan.com/token/0xf3a
 <br>
 
 ## Architecture des fichiers
+```
 project/
 │
 ├── code/
@@ -59,6 +60,7 @@ project/
 ├── tsconfig.json # config TypeScript
 ├── Makefile # commandes simplifiées
 └── .env # variables sensibles (non versionné)
+```
 
 <br>
 
