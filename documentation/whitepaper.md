@@ -149,7 +149,7 @@ Créer un fichier .env :
 ```bash
 RPC_URL_BSC_TESTNET=https://data-seed-prebsc-1-s1.binance.org:8545/
 PRIVATE_KEY=0xVotreClePrivee
-INITIAL_SUPPLY==VotreInitialSupply
+INITIAL_SUPPLY=VotreInitialSupply
 ```
 ---
 
